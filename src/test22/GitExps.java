@@ -23,6 +23,7 @@ public class GitExps {
 		String notNeededString="";
 		String secondCommit="sdfsdf";
 		String fifthCommit="sdfsdf555";
+		String sixCommit="sdfsdf6";
 
 	}
 
