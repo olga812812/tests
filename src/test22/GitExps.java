@@ -28,6 +28,9 @@ public class GitExps {
 		String secondCommit="sdfsdf";
 		String fifthCommit="sdfsdf555";
 		String sixCommit="sdfsdf6";
+		String sevenCommit="sdfsdf6";
+		
+		
 
 	}
 
