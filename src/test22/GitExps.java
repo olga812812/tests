@@ -21,6 +21,8 @@ public class GitExps {
 		
 		//change imn master
 		
+		//second change in master
+		
 		//some change for commit
 		String notNeededString="";
 		String secondCommit="sdfsdf";
